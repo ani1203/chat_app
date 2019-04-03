@@ -34,6 +34,7 @@ pycrypto==2.6.1
 PyJWT==1.5.3
 pyOpenSSL==17.5.0
 pyserial==3.4
+psycopg2==2.7.7
 python-debian==0.1.32
 pytz==2018.9
 pyxdg==0.25
